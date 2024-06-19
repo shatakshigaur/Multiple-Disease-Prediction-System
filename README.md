@@ -3,7 +3,7 @@
 A sophisticated and user-friendly web application designed to predict the likelihood of multiple diseases based on user inputs. This system leverages the power of machine learning algorithms to provide accurate and reliable predictions, helping users gain insights into their health conditions. Developed using Python and deployed via Streamlit for an interactive and seamless user experience.
 
 #Features:
-Multiple Disease Prediction: Supports prediction for a range of diseases such as diabetes, heart disease, and more.
+Multiple Disease Prediction: Supports prediction for Diabetes, Heart Disease, Breast Cancer and Parkinsons.
 Machine Learning Models: Utilizes well-trained machine learning models to provide precise predictions.
 User-Friendly Interface: Interactive web application with an intuitive interface for easy navigation and use.
 Real-Time Predictions: Instant results based on user-provided health metrics.
